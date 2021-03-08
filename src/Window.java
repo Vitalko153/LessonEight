@@ -13,7 +13,6 @@ public class Window extends JFrame {
         setResizable(false);
         setVisible(true);
 
-
         JButton btnClose = new JButton("Exit");
         add(btnClose, BorderLayout.SOUTH);
         btnClose.addActionListener(new ActionListener() {

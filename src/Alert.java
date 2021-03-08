@@ -5,7 +5,6 @@ import java.awt.event.ActionListener;
 
 public class Alert extends JFrame {
 
-
     Alert(){
         setLocation(700, 650);
         setSize(300, 100);
